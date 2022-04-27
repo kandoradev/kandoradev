@@ -2,7 +2,7 @@
 
 -💻 I’m interested in constantly discovering new technologies, building user-friendly applications and connections with passionate developers.
 
--🕹️ I’m currently learning Javascript/MERN for Full-Stack Development and C++ for problem-solving/leetcode. 
+-🕹️ I’m currently learning Javascript/MERN for Full-Stack Development and problem-solving/leetcode. 
 
 -✉️ kandoradev@gmail.com, or find me on instagram -> @kandor.a
 
