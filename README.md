@@ -10,6 +10,7 @@ started out in 2020 as a UX/UI designer yet have slowly moved my way to the back
 *   🖥️  See my portfolio at [kandoradev.com](http://kandoradev.com)
 *   ✉️  You can contact me at [kandoradev@gmail.com](mailto:kandoradev@gmail.com)
 *   🚀  I'm currently working on [supplyEyes](http://supplyEyes)
+*   You can read my case studies and articles here -> https://medium.com/@kandoradev
 *   🤝  I'm open to collaborating on any kind of project, from back-end related stuff to teaching others.### Skills 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
@@ -27,16 +28,3 @@ started out in 2020 as a UX/UI designer yet have slowly moved my way to the back
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/kandoradev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/kandor.a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/kandoradev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/@kandoradev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/kandoradev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandoradev&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
