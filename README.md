@@ -1,7 +1,7 @@
 hi! my name is kandora santana 👋
 ================================
 
-back-end software developer
+full-stack software developer
 ---------------------------
 
 Started out in 2020 in a Data Entry position, yet have slowly moved my way to a full-stack approach.
