@@ -11,7 +11,7 @@ About me:
 *   ✉️  You can contact me at [kandoradev@gmail.com](mailto:kandoradev@gmail.com)
 *   🚀  I'm currently working on [supplyEyes](http://supplyEyes)
 *   You can read my case studies and articles here -> https://medium.com/@kandoradev
-*   🤝  I'm open to collaborating on any kind of project, from back-end related stuff to teaching others.
+*   🤝  I'm open to collaborating on any kind of project, so long as it's open source. 
 
 stack: 
 <p align="left">
