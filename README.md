@@ -4,7 +4,7 @@ hi! my name is kandora santana 👋
 full-stack software developer
 ---------------------------
 
-Started out in 2020 in a data entry position, yet have slowly moved my way to a full-stack approach.
+About me:
 
 *   🌍  I'm based in the Dominican Republic, where I've been working as an American expat for some time now.
 *   🖥️  See my portfolio at [kandoradev.com](http://kandoradev.com)
