@@ -7,11 +7,7 @@ full-stack software developer
 About me:
 
 *   🌍  I'm based in the Dominican Republic, where I've been working as an American expat for some time now.
-*   🖥️  See my portfolio at [kandoradev.com](http://kandoradev.com)
-*   ✉️  You can contact me at [kandoradev@gmail.com](mailto:kandoradev@gmail.com)
-*   🚀  I'm currently working on [supplyEyes](http://supplyEyes), [here](https://medium.com/p/34329c1faa49/edit) is the Medium article for it!
-*   You can read my case studies and articles here -> https://medium.com/@kandoradev
-*   🤝  I'm open to collaborating on any kind of project, so long as it's open source. 
+
 
 stack: 
 <p align="left">
