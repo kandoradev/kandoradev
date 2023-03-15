@@ -4,9 +4,6 @@ hi! my name is kandora santana 👋
 full-stack software developer
 ---------------------------
 
-About me:
-
-*   🌍  I'm based in the Dominican Republic, where I've been working as an American expat for some time now.
 
 
 stack: 
